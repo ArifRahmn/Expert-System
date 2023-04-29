@@ -1,0 +1,115 @@
+body{
+    background-image: url(Image/BgBlueWhite6.png);
+    background-size: cover;
+}
+
+.posisitable{
+    text-align: center;
+    top: 300px;
+    margin-top: 15px;
+    
+}
+.posisiproses{
+    text-align: center;
+    margin-top: 35px;
+}
+
+.posisihasil{
+    color: black;
+    text-align: center;
+    margin-top: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+.textsty{
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+
+.tbls{
+    background-color: aliceblue;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin:0 auto;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.tblss{
+    background-color: aliceblue;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin:0 auto;
+    border: 4px solid rgb(0, 0, 0);
+}
+
+.mytable{
+    position: fixed;
+  top: 110px;
+  left: 420px;
+  right: 380px;
+}
+
+.about-us{
+    text-align: center;
+    margin-top: 250px;
+    color: black;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+
+.navbarstyle,a{
+    color: #000000;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+font-weight: bold;  
+color: #000000;
+}
+
+.headeriss{
+    color: #000000;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+    
+}
+
+.posisi{
+    
+    color:rgb(0, 0, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration:overline;
+    margin-top:180px;
+}
+
+.gambarisaa-img{
+    
+        width: 1500px;
+        height: 530px;
+      
+}
+
+
+.warnanav{
+    background-color: wheat;
+}
+
+
+
+
+
